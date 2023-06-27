@@ -1,2 +1,8 @@
 # Suraksha-Health-Insurance-Management-System
 SLIIT 1st year 2nd semester Internet and Web technologies group project
+
+Suraksha is a web-based health insurance management system which was designed to cater for the increasing demand for health insurance  in these pandemic times. By visiting the ‘About Us’ page of our website a guest can get an idea about the rich legacy and reliability our company boats. The simple user interface of our website makes it easy for any customer to go through our insurance packages and policies and select the best package that suits them from the ‘Our Solutions’ page. Our guests can also go through our ‘FAQ’  page to find answers for their frequently asked questions.
+We do have dedicated Customer Care agents who are looking forward to clear any doubts a client may have regarding our insurance policies through the chat bot. Once a guest decides to become a member of our insurance, he/she can register and obtain membership through our online web-based solution.
+An individual who is keen on joining the employee force of our company can get additional details and apply for available positions through the ‘Careers’ page.
+In addition to customers this web site provides services to our employees to carry out their duties efficiently. Customer care agents can examine the customer feedback and give solutions to the issues raised by them through the chat bot. Marketing managers can analyze customer engagement and introduce new promotions together with attractive deals on insurance packages to attract new customers.
+All in all we expect that our website acts as an ideal interface to satisfy all the health insurance needs of our guests.
